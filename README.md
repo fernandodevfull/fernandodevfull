@@ -1,6 +1,6 @@
-# Olá, eu sou o Raull 👋
+# Opa, meu nome é Fernando Raul 👋
 
-Estudante de **Bacharelado Interdisciplinar em Tecnologia da Informação** na UFERSA (Universidade Federal Rural do Semi-Árido), apaixonado por desenvolvimento de jogos, programação de baixo nível e construção de projetos para portfólio.
+Estudante de **Bacharelado Interdisciplinar em Tecnologia da Informação** na UFERSA (Universidade Federal Rural do Semi-Árido), curto desenvolvimento de jogos, programação de baixo nível e construção de projetos.
 
 - 🎮 Curto desenvolver jogos e explorar arquiteturas de linguagens/interpretadores
 - 🧠 Estudo estruturas de dados, arquitetura de computadores, sistemas operacionais e redes na universidade
@@ -49,7 +49,7 @@ Jogo 2D no estilo *point-and-click*, em desenvolvimento com **C#**.
 ## 📫 Contato
 
 - GitHub: [@fernandodevfull](https://github.com/fernandodevfull)
-- LinkedIn: *adicione o link do seu perfil aqui*
+- LinkedIn: www.linkedin.com/in/fernando-raul-48248529b
 
 ---
 
