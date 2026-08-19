@@ -1,3 +1,5 @@
+<video src="6ca4f09" controls autoplay loop muted width="100%"></video> 
+
 # Opa,meu nome é fernando raul ☕☕
 
 Estudante de **Bacharelado Interdisciplinar em Tecnologia da Informação** na UFERSA (Universidade Federal Rural do Semi-Árido), apaixonado por desenvolvimento de jogos, programação de baixo nível e construção de projetos.
