@@ -1,6 +1,6 @@
-# Opa, meu nome é Fernando Raul 👋
+# Opa,meu nome é fernando raul ☕☕
 
-Estudante de **Bacharelado Interdisciplinar em Tecnologia da Informação** na UFERSA (Universidade Federal Rural do Semi-Árido), curto desenvolvimento de jogos, programação de baixo nível e construção de projetos.
+Estudante de **Bacharelado Interdisciplinar em Tecnologia da Informação** na UFERSA (Universidade Federal Rural do Semi-Árido), apaixonado por desenvolvimento de jogos, programação de baixo nível e construção de projetos.
 
 - 🎮 Curto desenvolver jogos e explorar arquiteturas de linguagens/interpretadores
 - 🧠 Estudo estruturas de dados, arquitetura de computadores, sistemas operacionais e redes na universidade
@@ -14,7 +14,15 @@ Estudante de **Bacharelado Interdisciplinar em Tecnologia da Informação** na U
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -43,13 +51,14 @@ Jogo 2D no estilo *point-and-click*, em desenvolvimento com **C#**.
 - Coleções avançadas em C# (hashing, `IEqualityComparer<T>`, `SortedDictionary<TKey,TValue>` com árvore rubro-negra)
 - LINQ, tratamento de exceções customizadas e ponto flutuante IEEE 754
 - Segurança de aplicações web e bug bounty hunting
-
+- Banco de dados sql
+- 
 ---
 
 ## 📫 Contato
 
 - GitHub: [@fernandodevfull](https://github.com/fernandodevfull)
-- LinkedIn: www.linkedin.com/in/fernando-raul-48248529b
+- LinkedIn: www.linkedin.com/in/fernando-raull
 
 ---
 
